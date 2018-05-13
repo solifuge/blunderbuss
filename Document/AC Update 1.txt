@@ -1,0 +1,95 @@
+[abbr=Back][url=http://bit.ly/AshwoodCross0][img]https://raw.githubusercontent.com/solifuge/ashwoodcross/master/image/ui/back.png[/img][/url][/abbr][abbr=Home][url=http://bit.ly/AshwoodCrossHome][img]https://raw.githubusercontent.com/solifuge/ashwoodcross/master/image/ui/home.png[/img][/url][/abbr][abbr=Next][url=http://bit.ly/AshwoodCross2][img]https://raw.githubusercontent.com/solifuge/ashwoodcross/master/image/ui/forward.png[/img][/url][/abbr]
+
+[quote author=Elephant Parade link=topic=161671.msg7279337#msg7279337 date=1480449220][b]Take ukulele. Look through rock window.[/b][/quote]
+[quote author=Kadzar link=topic=161671.msg7279602#msg7279602 date=1480463637]Yes, make sure our precious ukulele is alright.[/quote]
+
+[center][table][tr][td][center][hr][color=#868686]You stand up, a little shakey at first. Legs feel wobbly. Head does, too.
+You see a [b]Stray Ukulele[/b] nearby. You assume it might be yours, but...
+
+[abbr=Ouch...][img]https://raw.githubusercontent.com/solifuge/ashwoodcross/master/image/splash/1_stand.png[/img][/abbr]
+
+When you [color=transparent][glow=#868686,1]think about that, your head starts to feel really weird[/glow][/color].
+The thoughts just [color=transparent][glow=#8668686,1]sputter out into unrelated things[/glow][/color].
+
+Until your memory is trying to be a smell, and .
+
+is trying to be a decision or an emotion. Everything just gets [color=transparent][glow=#8668686,1]blurred[/glow][/color] together into nonsense.
+
+You don't remember it being yours, but you choose to adopt it.
+
+[/color][/center][/td][/tr][/table][/center]
+
+[abbr=A sturdy and travel-worn Ukulele. Needs a good name.][img]https://dl.dropboxusercontent.com/u/80372290/Theia/Item/Ukulele.png[/img][/abbr]
+
+[table][tr][td][center][hr][color=#868686]It's nice to be united with your precious, [b]Nameless Ukulele[/b].
+
+To be honest, though, you're still feeling pretty crappy.
+
+You take a moment to assess your [b]Current Condition[/b].[/color][/center][/td][/tr][/table][/center]
+
+[center][table][tr][td][center][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/header_vitals.png[/img]
+[abbr=Vitality and physical wellness. Tracks Bashing, Wounds, and Critical Wounds. 1 Bash heals every hour, 1 Wound every night, and 1 Critical Wound every week. Bedrest and Medical Care speeds this up. A fully Bashed character must fight to stay conscious. A fully Wounded character takes Critical Wounds until they're Stabilized. A fully Critical character will die.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/health_5.png[/img][/abbr][abbr=Energy and emotional wellness. Tracks Spent Will and Enervation. 1 Spent Will recovers every night, and 1 Enervation every week. Validation and Social Support speed this up. A fully Spent character takes a -1 on all Rolls. A fully Ennervated character has lost their will to live.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/will_4ssb.png[/img][/abbr]
+[abbr=Physical power. Used for sprinting and jumping, heavy work, throwing, etc.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/might_1.png[/img][/abbr][abbr=Mental power. Used in problem-solving, investigation, tests of memory and experience, etc.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/logic_1.png[/img][/abbr]
+[abbr=Physical speed. Used for tumbling and dancing, dextrous work, aiming, etc.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/grace_2.png[/img][/abbr][abbr=Mental speed. Used in perception, socializing, tests of cleverness and quick-thinking, etc.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/wits_2.png[/img][/abbr]
+[abbr=Physical endurance. Used for carrying and climbing, sustained work, resisting maladies, etc.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/stamina_2.png[/img][/abbr][abbr=Mental endurance. Used in self-control, resisting influence, tests of focus and rationale, etc.][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/composure_1.png[/img][/abbr]
+[/center][/td][/tr][/table][/center]
+
+[center][table][tr][td][center][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/athletics_2.png[/img][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/cooking_1.png[/img]
+[img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/deception_1.png[/img][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/horticulture_1.png[/img]
+[img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/music_3.png[/img][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/stat/blank.png[/img]
+[/center][/td][/tr][/table][/center][/center]
+
+
+
+[url=http://bit.ly/AshwoodCross0][img]https://dl.dropboxusercontent.com/u/80372290/Theia/UI/Back.png[/img][/url][url=http://bit.ly/AshwoodCrossHome][img]https://dl.dropboxusercontent.com/u/80372290/Theia/UI/Home.png[/img][/url][url=http://bit.ly/AshwoodCross2][img]https://dl.dropboxusercontent.com/u/80372290/Theia/UI/Forward.png[/img][/url]
+
+[center][img]https://dl.dropboxusercontent.com/u/80372290/Theia/Item/Duffel.png[/img]
+[table][tr][td][center][hr][color=#666666]
+This is no Tootsie Roll. It's your [b]Duffel Bag[/b].
+
+At least, it's presumably your bag? I mean, it's here with you, and there's no one else around. Right?
+When you try to think back and remember anything about it, your head starts to get [color=transparent][glow=#666666,1]All Fuzzy[/glow][/color] again.
+This seems to happen whenever you try to remember things.
+
+What do you think's inside?[/color][/center][/td][/tr][/table][/center]
+
+
+QUOTES:
+
+[quote author=Haspen link=topic=161671.msg7279977#msg7279977 date=1480488284][b]Re: hug the ukulele. Just do it.[/b][/quote]
+
+
+[quote author=Elephant Parade link=topic=161671.msg7279337#msg7279337 date=1480449220][b]Take ukulele. Look through rock window.[/b][/quote]
+
+
+[quote author=Haspen link=topic=161671.msg7279342#msg7279342 date=1480449404][b]Crank up font brightness so it becomes readable on Darkling.[/b][/quote]
+
+
+[quote author=monk12 link=topic=161671.msg7279454#msg7279454 date=1480455035][b]Loot the giant tootsie roll![/b][/quote]
+
+
+[quote author=Kadzar link=topic=161671.msg7279602#msg7279602 date=1480463637]Yes, make sure our precious ukulele is alright.[/quote]
+
+
+
+
+
+[quote author=ShadowHammer link=topic=161671.msg7279833#msg7279833 date=1480480119][b]Retrieve [s]arms[/s] ukelele, play some radical inspirational tunes to make ourself feel less like garbage[/b][/quote]
+[quote author=TheBiggerFish link=topic=161671.msg7279837#msg7279837 date=1480480315][b]Find source of hugs.  We seem to be in need of one.[/quote]
+[quote author=Haspen link=topic=161671.msg7279977#msg7279977 date=1480488284][b]Re: hug the ukulele. Just do it.[/b][/quote]
+[quote author=Egan_BW link=topic=161671.msg7279638#msg7279638 date=1480467219][b]Spontaneously start thinking about kittens for a moment.[/b][/quote]
+
+[center][img]https://dl.dropboxusercontent.com/u/80372290/AshwoodCross/image/splash/1_think.png[/img]
+
+[table][tr][td][center][hr][color=#666666]Er... [url=https://solifuge.github.io/ashwoodcross/meowsong.html][♪] ====►[/url][/color][/center][/td][/tr][/table][/center]
+
+
+
+
+
+
+[quote author=Tiruin link=topic=161671.msg7279889#msg7279889 date=1480483003][b]Hug thyself; try to inspire motivation by fixating on your ukelele, and your goal of the aspiring singer.[/b][/quote]
+
+
+
+FOR MEOW THING, PUT MISCHEIF SONG THROUGH MARIO PAINT?

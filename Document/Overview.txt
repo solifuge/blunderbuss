@@ -1,0 +1,74 @@
+Blunderbuss Reboot:
+
+PC starts as a young villager in a coastal fishing/trade village of Barda. As part of the framing vignette, something begins to go down in the town (cult activity lead, by a charlatan using alchemy to pretend to be a warlock, is starting to get out of the hand. The leader's own child, and one of the PC's friends, is on the sacrificial altar!) which the young PC thwarts with the help of two close friends.
+
+The crisis resolves in such a way that the friends are split up and leave the small town (depends on characters and their personalities). Maybe one friend is orphaned and is taken in by another household, while another is offered a prestigious apprenticeship. The PC goes on to become a colonist/sailor/hunter/explorer, in such a way that they leave the old village for many years.
+
+When they return to Barda some 10 years later, everything has changed (letting players learn about the setting as the character does):
+
+= The small village has been absorbed into the great spiritual empire lead by "The Exemplary", and the village has grown tremendously. It is under new leadership, and veneration of the old gods (a pantheon of household/patron animal spirits) has been banned, though it continues to be carried on in secretive ways... small carvings, statues, etc.
+
+= Clockwork creatures have wandered out of ancient ruins. These come from The Hiveworld, a paralell dimension where the ancients' Automated Industrial Complex used to be (the reason why no factories have ever been found, despite the intricate mass-produced devices mentioned in historical accounts). The "Hearts" of the clockwork creatures are highly prized for their ability to create a seemingly endless flow of pressurized steam, and their bodies and Analytical Engines for salvaging the alloys and microfine gear assemblies, or even trying to reproduce the technology. Most clockworks don't have their own heart, but draw a reserve of steam power from a "Hive" clockwork, which acts as a hub for all of them.
+
+= The Clockworks aren't on a mission of hate, but rather are trying to find their "parents", the Elders (the people who became the Gods), who have been missing for millenia. However, excepting Hives, and what few autonomous humanoid Isoforms made directly by the Elders themselves, most Clockworks are unable to speak language, nor do they know enough language to communicate with other creatures. And their monstrous appearance causes regular hostilities.
+
+= Magic just borrows matter and energy from a paralell universe.
+
+= Skills:
+-4 [Abysmal]
+-3 [Terrible]
+-2 [Lousy]
+-1 [Poor]
+*0 [Fair]
++1 [Good]
++2 [Great]
++3 [Excellent]
++4 [Incredible]
+
+Skills are divided into 4 categories, depending on the Character Attribute that governs them. When performing a Skill Test, you add your Governing Attribute bonus/penalty to the roll, plus bonuses from applicable skills you may have.
+
+Body Skills:
+Unarmed Combat: Grappling, kicking, biting, and fighting using your body as a weapon.
+
+Blade Combat:
+
+Techniques:
+Hurl: Throw a heavy object,
+
+Throwing:
+
+Weapon Traits:
+
+Bludgeon:
+
+Slashing: 
+
+Piercing: Increased chance of inflicting Critical Wounds.
+
+Damage: 
+
+Pierce: Deals damage as though the target's armor was lower.
+
+Range: The useful range of a weapon.
+
+Throw: They can be thrown as a ranged attack.
+
+Axe: Blunt, Bladed, Throwing.
+
+Blunt Weapons: Heavy weapons designed to counter armored foes.
+
+
+
+Agility Skills:
+Throwing:
+
+Logical Skills:
+
+Social Skills:
+
+Intuitive Skills:
+Perception - Your ability to use your senses to pick out details, find clues, and so on.
+
+Perception: Using the senses to notice something about a place or person.
+Logic: Thinking through problems.
+Folklore: Can be used to check for basic knowledge of anything, from medicine and navigation, to .

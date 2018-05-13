@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+
+
+
+
+Spells are fueled using the caster’s own Vital Energy (generally Willpower, or sometimes Health), or using ambient energy leaking into the world from The Dreamtime (aka The Astral, The Realm of Forms, etc.).
+
+
+Spells are Invoked using the Occult Talent, and one or more Power Words which define the spell’s effect. Each Power Word can create different sorts of effects, and grants control over different parts of the natural world.
+
+
+Spell Difficulty is based on the scale of the effect the Power Word is used to create. Minor tricks or changes may only have a single Star, while 
+
+
+of the test is equal to the Stars of all invoked Power Words.
+
+
+Words of Power are words from The Primal Language, originating from The Dreamtime. It isn’t like mundane languages, in that even a single word takes a great deal of skill to learn and master.
+
+
+Caution when Spellcasting is advised; the cost to the caster isn't known until the spell is cast.
+
+All spells cost Willpower.
+Complex spells may deal Bludgeoning Damage.
+Very complex spells may deal Lethal Damage.
+
+
+Rolls: Attribute + Skill + Equipment +/- Situational Modifiers
+
+Desperation Roll:
+If Skill is reduced to 0, you may still Roll 1d10. Only Succeed on a 10. On a 1, suffer a Dramatic Failure as normal.
+
+
+
+
+You may spend Willpower to reduce the Difficulty, at the cost of 1 Willpower each (to a minimum Difficulty of 1). You may also spend 1 Health to gain Advantage on the Invocation Test. Being close to a Leyline or Leynode also grants Advantage.
+
+
+Power Word Effects are flexible, within reason; the effects are guidelines and examples. Spells using those Power Words are not restricted to the effects listed. Creativity is encouraged!
+
+
+Most spells are delivered to one or more targets by Touch, unless modified by certain Power Words.
+
+
+A single touched target.

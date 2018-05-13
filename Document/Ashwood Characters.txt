@@ -1,0 +1,110 @@
+Hana:
+
+Talent Pool:
+	Acting:			★
+	Atheltics:		★★
+	Cooking:		★
+	Gardening:		★
+	Herbalism:		★
+	Music:			★★★
+
+Attributes:
+	Might:			★
+	Stamina:		★★
+	Grace:			★★
+	Reasoning:		★
+	Composure:		★
+	Wits:			★★
+	
+Stats:
+	Health 5: ★★///
+	Willpower 4: ★★★/
+	Food 8: ★★//////
+	Rest 8: ★★//////
+	Experience 0: 
+	Inventory: 
+	
+Dream Shop (Sell Experiences for Skills):
+	★ x1:			Heal 1 Burned Stat
+	★ x3:			+1 Skill Rank
+	★ x5:			+1 New Skill
+	★ x9:			+1 Attribute
+	★ x9-18:		New Perk
+	
+Needs:
+	Recovery: During Recovery, stat points improve by 1 or more steps. The least-drained point recovers first.
+	Drain: When Drained, stat points degrade by 1 or more steps. The least-drained point is drained first.
+	Burn: Sometimes stat points can be Burned, preventing normal recovery. Generally, they're restored through Special Actions.
+
+	Health: Might + Stamina + Grace
+		States: Healthy, Bashed, Wounded, Critical (Burned)
+		Bashed: Every Minute, Burn 1 Willpower, or Roll Stamina + Composure, or Pass Out.
+		Wounded: Pass Out. Every Minute, Burn 1 Health until Stabilized, or Die.
+		Recovery: Recover 1 Bashed per Hour. Recover all Bashed, and 1 Wounded recovers to Bashed, per Night. 1 Critical recovers to Wounded per Week.
+
+		Heal Critical Damage:
+			Extended Test: Medicine + Grace (Surgery) or Medicine + Logic (Pharmacy)
+			Interval: 1 Hour per Roll
+			Difficulty: Total Critical Health
+			Result: 1 Critical Health recovers to Wounded
+			Limit: Once per Day.
+
+		Stabilize Critical Character:
+			Extended Test: Medicine + Grace (Stabilize Other), or Stamina (Stabilize Self)
+			Interval: 1 Minute per Roll
+			Difficulty: Total Critical Health
+			Result: Character is Stabilized.
+
+	Willpower: Reasoning + Composure + Wits
+		States: Full, Spent, Ennervated (Burned)
+		Recovery: Recover 1 Spent per Night.
+		
+		Empty:
+
+	Food: 5 + Stamina + Might
+		Drain: 1 per Hour.
+		States: Fed, Hungry, Starving
+			Sated: Hana has eaten recently. 
+			Hungry: -1 Roll Penalty. Can Eat.
+			Starving: -2 Roll Penalty. 1 Health Burn per Day.
+
+	Rest: 5 + Stamina + Composure
+		Rested (4/4, 3/4), Fatigued (2/4, 1/4), Exhausted (0/4)
+		Drain: 1 per Hour.
+		Recovery: 1 Fatigued or Exhausted becomes Rested, per Hour Sleeping.
+		Fatigued: -1 Roll Penalty. Can Sleep.
+		Exhausted: -2 Roll Penalty. 1 Willpower Burn per Hour to Stay Awake.
+		
+	Lucidity: 5 + Stamina + Composure
+		Status: Inverse of Rest, while Dreaming.
+		Drain: 1 per Hour
+		Lucid: -1 Roll Penalty. Can Wake.
+
+	Stress: 5 + Composure + Reasoning
+		Half-Empty:
+		Empty: 1 Willpower Burn per Day.
+		
+		
+	Need Duration Stuff:
+	
+	Food: People eat after ~8 hours of activity.
+		Drain: 1 point lost per Hour
+			~3 Weeks is Lethal.
+		States: Fed, Hungry, Starving
+			Hungry: -1 Roll Penalty. Can Eat.
+			Starving: -2 Roll Penalty. 1 Health Burn per Day, due to Malnutrition.
+		
+		BTW,
+	
+	Sleep: People sleep after ~16 hours of activity.
+		~3 Days is Madness.
+		1 point lost per Hour (Morning, Afternoon, Evening, Night)
+		States: Rested, 
+		
+		Empty: 1 Willpower Drain per Hour to stay awake, due to Exhaustion.
+		Empty: 1 Willpower Drain per Hour to stay awake, due to Exhaustion.
+		
+		
+		
+		
+	

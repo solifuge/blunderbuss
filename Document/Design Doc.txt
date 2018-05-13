@@ -1,0 +1,405 @@
+[spoiler=Dice and Skill Tests:]
+Whenever a Character wants to attempt something with a decent risk of failure, they’ve got to beat a Skill Test to succeed. Skill Tests use a pool of 10-sided dice (thanks Random.org). We roll a number of dice based on the character's Rank's (stars) in two Attributes or Skills related to the Skill Test. Bonuses or penalties change the number of dice, depending on equipment, environment, available facilities, long-term conditions, etc. Note: some tests are impossible without the proper tools or materials, or when under the wrong conditions.
+
+[u]Success and Difficulty:[/u]
+Any roll of 8, 9, or 10 on a Test is considered a Success. Each roll of 10 also "Explodes", granting an additional bonus die to the roll. Having more Successes than the Difficulty of the test means the character was able to do what they wanted to do. Most tests have a Difficulty of 1 star. Some tests are harder than others, such as Contests opposed by another character; during a Contest, the opponent's Successes set the Difficulty for the acting character.
+
+[u]Critical Success and Critical Failure:[/u]
+Any Test with 5 or more Successes is a Critical Success. These represent a particularly good outcome, and may grant additional long-term benefits. On a failed Test, if half or more of the rolls are 1, it’s considered a Critical Failure. This represents a very poor outcome, and may impose additional long-term penalties.
+
+[u]Advantage and Disadvantage:[/u]
+Under particularly favorable conditions, a Character's rolls are granted Advantage. With advantage, a roll of 7 is also a Success, a roll of 9 will also Explode, and a roll of 1 does not contribute to Critical Failures. In particularly harsh conditions, a Character's rolls are penalized with Disadvantage. When disadvantaged, a roll of 8 is not a Success, a roll of 10 will not Explode, and roll of 2 will also contribute to Critical Failures.
+
+[u]Untrained Penalty:[/u]
+If you need to attempt a Skill Test but lack a related Skill, you suffer a -2 dice penalty to the roll for being Untrained. If penalties on your Skill Test ever reduce your Die Pool to 0 or lower, you can still roll a single die on your Test.
+
+[u]Desperation Bonus:[/u]
+If a Skill Test is very important, a character may exert themselves by spending a point of Willpower, granting +2 bonus dice to the roll.
+
+[hr]
+
+[u]Rolls with Advantage:[/u]
+[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Roll/TestAdvantage.png[/img]
+
+[u]Normal Rolls:[/u]
+[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Roll/TestNormal.png[/img]
+
+[u]Rolls with Disadvantage:[/u]
+[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Roll/TestDisadvantage.png[/img]
+
+[u]Color Key:[/u]
+-Purple: Exploding Success
+-Teal: Success
+-Orange: Failure
+-Red: Critical Failure
+[/spoiler]
+
+[spoiler=Attributes and Skills:]
+Attributes represent a character’s natural abilities, and Skills represent their training and experience. Both are Ranked by stars, from 1 to 5. More stars means a larger pool of dice when rolling on related Skill Tests. Some Attributes are used to derive other general attributes that measure passive capabilities, such as health, inventory size, or movement speed.
+
+[u]Physical Attributes:[/u]
+- Might: Strength, fitness, physical power
+- Grace: Agility, reflexes, physical quickness
+- Stamina: Health, endurance, physical toughness
+
+[u]Mental Attributes:[/u]
+- Logic: Intelligence, memory, mental power
+- Wits: Charisma, problem solving, mental quickness
+- Composure: Focus, self-control, mental toughness
+
+[u]Physical Talents:[/u]
+- Athletics: Running, jumping, dodging, swimming, throwing.
+- Brawling: Boxing, grappling, and unarmed fighting.
+- Crafts: Toolmaking, maintenance, cooking, tinkering.
+- Weaponry: Armed combat, parrying, knowledge of weapons and their use.
+- Shooting: Ranged accuracy, knowledge of firearms and their traits.
+- Piloting: Horseback riding, cart driving, ship steering.
+- Survival: Navigation, tracking, practical knowledge of nature and wilderness.
+
+[u]Mental Talents:[/u]
+- Academics: Research, lab work, and knowledge of science, history, and the arts.
+- Arcana: Understanding and invoking magic, and knowledge of the supernatural and occult.
+- Deception: Lying, misdirection, disguise, stealth, and slight-of-hand.
+- Expression: Oration, performance, socialization, and createing meaningful art.
+- Intuition: Empathy, emotional sensitivity, ability to read intention and mood.
+- Investigation: Perception, deduction, fact-finding, and uncovering clues.
+- Medicine: Medical care, health diagnosis, herbalism, knowledge of anatomy.
+
+[u]Derived Attributes:[/u]
+These are calculated based on your Physical and Mental Attributes. They may measure passive capabilities, or be used in Skill Tests.
+
+- Health (Might + Grace + Stamina): Wellness and physical fitness. Lost when suffering injuries, and healed over time based on wound severity.
+- Willpower (Logic + Wits + Composure): Conviction and inner strength. Spent to activate some Trait abilities, or to gain bonuses on skill tests.
+- Inventory (6 + Stamina + Might): Maximum slots of Inventory space.
+- Lifting (Might + Stamina): Maximum weight of lifted or carried objects. Equates to ~50 lbs (~25 kg) carried, or ~100 lbs (~50 kg) lifted each.
+- Defense (Lowest of Wits or Grace): Innate difficulty of Attack Rolls against you. Actively dodging grants a Defense Test (Athletics + Defense), granting successes as a bonus.
+- Speed (5 + Lowest of Might or Grace): Yards/Meters moved in a second of sprinting, or kilometers/miles moved in an hour overland.
+- Reaction (Grace + Composure): Determines order of actions in a time-sensitive situation.
+- Perception (Wits + Composure, or Wits + Skill): Ability to notice fine details in an environment or situation.
+- Resolve (Wits + Composure): Ability to resist illusions, and social or mental influence.
+- Fortitude (Stamina + Composure): Ability to resist poison, and other physical maladies.
+[/spoiler]
+	
+[spoiler=Health and Injuries:]
+A character's Health is equal to their combined Might, Grace, and Stamina. Damage is recovered by resting, though successful Medical Tests can help speed natural recovery, and downgrade wound severity. Damage comes in different varieties, representing severity and expected recovery time. When a character has been dealt half or more of their Health worth of any Damage, they are Injured, and take -2 to all Skill Tests (except for Resolve Tests to remain conscious).
+
+[u]Bashing Damage:[/u]
+Represents bruises and blunt trauma that are debilitating, but generally non-serious. Bashing Damage recovers by 1 point after a Short Rest (such as a nap or hour’s break), and completely after a Long Rest (such as a night’s sleep). When a character's final Health Point is dealt Bashing Damage, make a Fortitude Test (Stamina + Composure) every Minute to remain conscious. Any additional points of Bashing Damage past the maximum are upgraded into more serious Lethal Damage.
+
+[u]Lethal Damage:[/u]
+Represents serious or potentially life-threatening wounds and injuries. Healing Lethal Damage takes time; after a Long Rest, Characters recover a single point of Lethal Damage. Whenever a character takes damage, and their final Health Box is dealt Lethal Damage, they enter Critical Condition. Any additional Lethal or Bashing Damage taken is upgraded into Critical Damage.
+
+[u]Critical Damage and Critical Condition:[/u]
+Represents deadly and lasting damage. While in Critical Condition, a character takes a point of Critical Damage every Minute, until they are Stabilized. Critical damage heals very slowly; one point is recovered every week (assuming a Long Rest every day). When a Character's final Health Box is full of Critical Damage, they are dead.
+
+[u]Medical Care, First Aid, and Stabilization:[/u]
+The Medical Skill can help speed natural recovery, and mitigate damage that's already been done. When a character is in Critical Condition, they can be stabilized with an Extended Medical Test made every minute; when the Extended Test accumulates successes equal to the character's current Critical Damage, they are Stabilized. Once per Short Rest, a point of Bashing Damage can be treated by a successful Medical Test; this will also revive a character knocked out from Bashing Damage. Once per Long Rest, a point of Lethal or Critical Damage (whichever is most serious) may be treated by an Extended Medical Test made every Hour; once successes are equal to the most serious Damage Type, one point of that damage is reduced to a less serious form (Critical to Lethal, or Lethal to Bashing). Medical Tests involve First-Aid or Surgery generally use Grace + Medicine, and Medical Tests involving Long-Term Care or Pharmacy use Wits + Medicine. 
+
+[u]Health Icons:[/u]
+[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Trait/HealthFull.png[/img] Undamaged
+[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Trait/HealthBash.png[/img] Bashing Damage
+[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Trait/HealthLethal.png[/img] Lethal Damage
+[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Trait/HealthCritical.png[/img] Critical Damage[/spoiler]
+
+[spoiler=Willpower and Trait Abilities:]
+A character's Willpower is equal to their combined Logic, Wits, and Composure. It represents inner strength, and a character's physical and emotional energy level. Willpower is spent when using abilities granted by some Traits, such as when Invoking magic. Characters may also spend Willpower during a Skill Test, to gain a +2 die Desperation Bonus to the roll. A character recovers 1 point of Willpower after a Long Rest, plus 1 for every success on a Resolve Test (Wits + Composure).
+
+[u]General Traits:[/u]
+
+- Expertise: Choose an area of Expertise (Ex. Stealth, Alchemy, Swimming, Pistols). Gain +1 on any Skill Tests related to your Expertise. When spending Willpower for a +2 Desperation Bonus on these Tests, gain Advantage on the roll as well.
+
+- Ironhide: Once per Long Rest, you may spend 1 Willpower to downgrade 1 recent Lethal Damage to Bashing Damage, or ignore all Bashing Damage from a single recent injury. The damage must have come from a physical source, and must be fairly new damage (within the last several minutes).
+
+- Common Sense: You may spend 1 Willpower, and attempt a Perception Test (Wits + Composure), to ask the GM a Y/N Question about the outcome of a decision you face, about the hidden risks and benefits associated with a situation, or to get a reliable gut feeling about something.
+
+- Leadership:[/u] When performing a coordinated action that was planned in advance, you may spend 1 Willpower to grant a +2 Exertion Bonus to the rolls of a number of characters equal to your Wits.
+	
+- Aura Sense: You have the ability to Percieve Auras, revealing information about a person's identity, nature, and emotional state. You may spend 1 Willpower, and attempt an Intuition Contest (Wits + Intuition) versus the target's Composure. On success, you may ask the GM a question about the target, such as what their strongest emotion is, whether they're telling the truth, what they're trying to hide, where their attention is focused, what sort of being or creature they are, whether they're mortal or supernatural, etc.
+	
+
+[u]Species Traits:[/u]
+
+
+- Hound: Scenting: Your naturally keen sense of smell allows you to locate objects, track people, or get a sense of where someone's recently been using their smell. You can recognize familiar smells the same way you would recognize a familiar voice or face. Gain a +2 Bonus to Perception Tests that benefit from close-range smell. You may also spend 1 Willpower and attempt a to use your sense of smell to search for familiar objects or people in a wide area.
+
+[u]Combat Traits:[/u]
+	
+- Weapon Defense: You may substitute Weaponry in place of Athletics, when making a Defense Roll while armed.
+
+- Weapon Finesse: You may use the Higher of Grace or Might, when attacking with a light melee weapon.
+	
+- Uncanny Dodge: You may use the Higher of Wits or Grace for Defense, rather than the Lower. Once per Long Rest, you may attempt to Auto-Dodge an attack, even when unaware of it.
+	
+	
+[u]Supernatural Traits[/u]	
+	
+- Second Soul: You have an Eidolon, or a second soul escaped from The Dreamtime, inhabiting your body. This doubles all Healing and Willpower recovery due to rest, but marks you as a Supernatural being. The Eidolon may assert control over your shared body when your mind or body is compromised.
+
+- Invoke: You understand and can Invoke a word from the primal language of The Dreamtime. This grants the ability to shape certain forces or aspects of reality using an Arcana Test (Arcana + Logic, Wits, or Composure, depending on the Invocation). Difficulty is based on the complexity, range, and duration of the effect. You may spend Willpower to reduce the Difficulty of low-power Invocations, and deal Bashing Damage to yourself to reduce the Difficulty of high-power Invocations.
+
+[/spoiler]	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+A Domain is a Ley Node on the fringes of the Astral, which is cordoned off from the rest of The Dreamtime using special rituals to conceal it, and physically/psychicly barricade it up. They are often used by arcanists to provide controlled access to The Astral, in a sheltered space. Grenfeldon uses his own Demesne to train his students, and to practice complex Arcana, such as his "Warp" invocation.
+
+Invocations can be messed up, and create completly chaotic results. Sometimes, these effects can be studied and refined, to invent new Invocations (generally unknown or forgotten arcane phrases, or new words using old syllables which happen to balance each other out and create an effect.)
+
+
+
+
+
+Neo BLunderbuss
+
+Theia: Gaiden
+
+Game Rules:
+
+Stars: Characters have Talents, rated by Stars. The more Stars, the better they are at tasks using that Talent.
+
+Skill Tests:
+When players do something with a risk of failure, they must roll dice to succeed. The number of Dice they roll are based on their Stars in either two Attributes, or an Attribute and a Talent related to the check. Rolls are on 10-sided die, and will be handled by Random.org. For every roll of 8 or higher, they get a Success. The number of Successes determines how well they perform.
+
+Critical Success: 5 or more Successes are rolled.
+
+Willpower Uses:
+
+	Willpower can be spent:
+		To gain a +2 bonus on a roll.
+		To activate some Special Abilities.
+		
+	Specialty Skill: Gain +1 on any Tests related to your Specialty. When spending Willpower on such Tests, gain Advantage on your roll.
+	
+	Nimble: When spending Willpower on a roll to Defend in combat, or perform other acrobatic actions, gain a +3 bonus instead, and Advantage on your roll.
+	Intuition: When spending Willpower on a roll to notice small details, uncover secrets, or perform other investigative actions, gain a +3 bonus instead, and Advantage on your roll.
+		
+	Ironhide: You may spend 1 Willpower to downgrade 1 recent Lethal Damage to Bashing Damage, or ignore 2 recent Bashing Damage. The damage must have come from a physical source.
+	Common Sense: Once per Long Rest, you may spend 1 Willpower, and attempt a Wits + Composure Test, to ask the GM a Y/N Question about the outcome of a decision you face, or the hidden risks and benefits associated with a situation.
+	Leadership: When performing a coordinated action that was planned in advance, you may spend 1 Willpower to grant a +2 bonus on the rolls of a number of characters equal to your Wits.
+	
+	Keen Nose: You may use your sense of smell in Investigation or Perception tests, to locate objects or get a sense of someone by their Scent. You can identify familiar objects or people the same way you would recognize a familiar voice or face.
+	Aura Reading: Your character has the ability to Percieve Auras, revealing information about a person's identity, nature, and emotional state. You may not know what you're seeing in an abnormal Aura, but you can recognize the abnormality. You may spend 1 Willpower, and attempt a Wits + Empathy - target's Composure test. You may ask the GM a question about the target, such as what their strongest emotion is, whether they're telling the truth, what they're trying to hide, where their attention is focused, or whether they're mortal or supernatural.
+	
+	Defensive Combat: You may substitute Combat in place of Athletics, when making a Defense Roll while armed.
+	Fighting Finesse: You may substitute Grace in place of Might, when making Combat rolls using a light or medium weapon.
+	
+	Uncanny Dodge: You may substitute Wits for Grace when making a Defense or Dodge test, and auto-Defend even when unaware of an attack.
+	
+	Second-Soul: You have a second soul inhabiting your body. This enables you to Heal and replenish Willpower faster than normal.
+	
+	Power Word (Word): Words from a Primal Language originating in The Dreamtime. Grants an ability to shape a certain force or aspect of reality when Invoking Spells.
+	
+	
+	[img]https://dl.dropboxusercontent.com/u/80372290/Theia/Sheet/TraitScenting.png[/img]
+Scenting: Hounds may use their keen sense of smell to locate objects, gather information, or get a sense for someone's most prevalent mood. You can identify familiar objects or people the same way you would recognize a familiar voice or face. Overpowering smells can muddle this ability.
+
+	[u]Skill Traits:[/u]
+These traits modify existing Skills, or grant situational bonuses to those Skills.
+
+[table][tr][td][/td][td]Specialty: Choose a one-word Specialty, representing a particular type of experience or skill. Gain +2 dice on any Skill Tests related to your Specialty. When spending Willpower to gain a Desperation Bonus on such Tests, gain Advantage on your roll.[/td][/tr][/table]
+	
+When damaged in half or more of your Health Points, you take a -1 penalty on rolls to perform any action.
+
+
+	
+Character Creation:
+Attributes: 8 Points (or 5/4/3 among primary, secondary, and tertiary)
+Talents: 16 Points (or 11/7/4)
+Talent Specialty: Pick 2
+Ability: Pick 4 (see above)
+
+
+
+MELODY:
+	Health: 6
+	Willpower: 8
+	Defense: 3
+	Inventory: 7
+
+	ATTRIBUTES:
+		Might:						★
+		Stamina:					★★
+		Grace:						★★★
+		Reasoning:					★★★
+		Composure:					★★
+		Wits:						★★★
+		
+	TALENTS:
+		Academics (Alchemy):		★★★
+		Arcana:						★★
+		Athletics (Acrobatics):		★★
+		Crafts:						★
+		Deception:					★★
+		Investigation:				★★
+		Medicine:					★★
+		Shooting:					★
+		Socialize:					★
+		
+
+	ABILITIES:
+		Tree-Kin
+		Power Word: Heal
+		Power Word: Shock
+		Power Word: Figment
+
+Torrence:
+	Health: 5
+	Willpower: 5
+	Defense: 2
+	Perception: 3
+	Inventory: 8
+	
+	ATTRIBUTES:
+		Might:						★
+		Stamina:					★★
+		Grace:						★★
+		Reasoning:					★★
+		Composure:					★
+		Wits:						★★
+		
+Yrma:
+	Health: 5
+	Willpower: 5
+	Defense: 1
+	Perception: 4
+	Inventory: 8
+	
+	ATTRIBUTES:
+		Might:						★★
+		Stamina:					★★
+		Grace:						★
+		Reasoning:					★
+		Composure:					★★
+		Wits:						★★
+
+
+MAJA:
+	Health: 8
+	Willpower: 6
+	Defense: 2
+	Perception: 4
+	Inventory: 8
+	
+	ATTRIBUTES:
+		Might:						★★★
+		Stamina:					★★★
+		Grace:						★★
+		Reasoning:					★★
+		Composure:					★★
+		Wits:						★★
+		
+	TALENTS:
+		Athletics (Swim):			★★
+		Brawling:					★★★
+		Crafts:						★★
+		Empathy:					★★
+		Investigation:				★★
+		Medicine					★
+		Survival					★
+		Socialize					★
+		Weaponry:					★★
+		
+	ABILITIES:
+		Keen Nose
+		Tooth and Claw
+		Common Sense
+		Uncanny Dodge
+		
+		
+Talents: Trained abilities.
+========
+Physical:
+	Athletics: 
+	Brawling:
+	Crafts:
+	Weaponry:
+	Shooting:
+	Piloting:
+	Survival:
+
+Mental:
+	Academics:
+	Arcana:
+	Deception:
+	Empathy:
+	Investigation:
+	Medicine:
+	Socialize:
+
+	
+Attributes: Raw Physical and Mental abilities.
+===========
+Physical:
+	Might:		Strength, physique, physical power
+	Grace:		Agility, reflexes, physical quickness
+	Stamina:	Health, energy, physical toughness
+
+Mental:
+	Logic:		Intelligence, memory, mental power
+	Wits:		Charisma, problem solving, mental quickness
+	Composure:	Focus, self-control, mental toughness
+	
+Derived Stats:
+	Health:				(Might + Stamina + Grace) Physical fitness. Lost when suffering injuries. Healing is based on severity.
+	Willpower:			(Reasoning + Composure + Wits) Inner strength. Spent to activate some Trait abilities, or to gain bonuses on skill tests.
+	Defense:			(Lowest of Wits or Grace) Difficulty of Attack Rolls against you. Active Defense grants successes from a Defense Test as a bonus.
+	Armor:				Reduces damage of the listed type (generally physical Bashing or Lethal).
+	Inventory:			5 + Stamina
+	Perception: 		Wits + Composure (Or Wits + Skill, for Skill Based Perception)
+	Initiative			Grace + Composure (Determines action order)
+	Speed:				5 + Might + Grace (Flat bonus based on size/species. Represents number of Yards character can move. Can move twice, and forfeit the action.)
+	Resist Coercion:	Wits + Composure
+	Resist Malady:		Stamina + Composure
+	
+	Dodge:				Defense + Grace or Wits (Successes reduces attacker's Successes by one.)
+	
+	First Aid:			Grace + Medicine (Or Wits + Medicine for pharmaceutical treatment)
+		Once per Long Rest, may attempt Extended Test (minute interval). Upon getting Successes equal to damage suffered, recovers from 1 Bashing Damage.
+	Medicine/Diagnose:	Wits + Medicine (Or Grace + Medicine for surgical treatment)
+		Once per Long Rest, may attempt Extended Test (hour interval). May downgrade a Damage Box by 1 severity level; difficulty 5 for Lethal, 10 for Critical.
+		
+	Climb:		Might + Athletics. One success equates to 10 feet in height.
+	Chase:		Stamina + Athletics. Contested by living targets. If chaser catches up (matches their successes) they are caught.
+	Jump:		Strength + Athletics. Each success equates to 1 foot of vertical clearance, 2 feet standing horizontal clearance, or 5 feet running jump.
+	Throw:		Grace + Athletics. "Short Range" distance equals Might + Grace + Athletics - Object's Size.
+		
+
+
+HOLDING BREATH:	
+Stamina		Time*
+1			30 seconds
+2			One minute
+3			Two minutes
+4			Four minutes
+5			Eight minutes
+6			15 minutes
+7			30 minutes
+
+LIFTING HEAVY OBJECTS:
+Strength		Feat						Lift
+1				Lift a chair 				40 lbs.
+2				Lift a large dog			100 lbs.
+3				Lift a public mailbox		250 lbs.
+4				Lift a wooden crate			400 lbs.
+5				Lift a coffin				650 lbs.
+6				Lift a refrigerator			800 lbs.
+7				Overturn a small car		900 lbs.
+8				Lift a motorcycle			1000 lbs.
+9				Overturn a mid-sized car	1200 lbs.
+10				Lift a large tree trunk		1500 lbs.
+11				Overturn a full-sized car	2000 lbs.
+12				Lift a wrecking ball		3000 lbs.
+13				Overturn a station wagon	4000 lbs.
+14				Overturn a van				5000 lbs.
+15				Overturn a truck			6000 lbs.

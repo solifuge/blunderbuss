@@ -1,0 +1,66 @@
+Melody the Alchemist
+Elf Female
+
+Archetype: Rebel
+Social Status:  Comfortable
+Birth Legitimacy:  Legitimate
+Family:  Extended Family
+Traits:  Arrogant
+Habits:  Compulsive organizer
+
+STR		+0
+DEX		+3
+CON		+0
+INT		+3
+WIS		+0
+CHA		+2
+
+HP: 8
+INV: 8
+DODGE: 14
+
+Major Skills:
+Arcana: Conjuration
+Arcana: Illusion
+Arcana: Evocation
+Acrobatics
+Craft: Alchemy
+Lore: Magick
+Lore: History
+
+Minor Skills:
+Bluff
+Defense
+Marksmanship
+Mechanics
+Perception
+Stealth
+Sleight
+
+Special Abilities:
+* Nimble: Elven racial ability. You recieve a +2 bonus to Acrobatics checks, and +1 to Dodge/Defense.
+* Fey Bloodline: Elven racial ability. You may cast spells as with the Wild Arcana special ability, using your CHA bonus as your Casting Ability bonus for Arcana checks. Casting a spell requires a Complex Action, combining the effects of any Words of Power you know into a spell. Your Arcana check must be higher than (5 + 5 per Effect Word + Total Spellpower of the spell) in order to cast successfully. If you fail, you take Non-Lethal Damage equal to the Spellpower of the spell attempted. You may only attempt spells with a maximum Spellpower equal to 1 + your CHA bonus. 
+* Tree Kin: Elven racial ability. So long as you are exposed to natural sunlight for 8 hours in a day, you can sustain yourself on water and a few bites of food. You prefer to eat when possible, but tend toward smaller meals. You are also unable to sleep, though you may choose to meditate in a dreamlike state while your body is resting.
+* Knowledgeable: You may attempt Lore skill checks, even when you are not trained in a specific Lore skill. Untrained Lore checks receive a +1 bonus for every Lore skill among your Major Skills, and every 2 Lore skills among your Minor Skills.
+
+Gear:
+Warm-Weather Clothes: +1 vs. warm-weather effects, -1 vs. cold-weather effects. <SMALL> <LIGHT ARMOR>
+Leather Vest: Armor 2, Max Mobility +6 <SMALL> <LIGHT ARMOR>
+Musket: 2d4 Bludgeoning/Piercing Damage. <LARGE> <HEAVY FIREARM> <TWO-HANDED> <RELOAD: 2 COMPLEX> <MISFIRE: 1>
+Mechanics Kit: <SMALL> <KIT>
+Silver: 40 <SMALL> <STACK: 50>
+
+Leather Pouch: +2 Inventory Slots. <SMALL> <CONTAINER>
+Bullet Cartridge: 1 dose gunpowder and 1 lead bullet, wrapped in a paper cartridge. Cuts reload time in half, but increases minimum Misfire chance by 1. <SMALL> <AMMO> <STACK: 10>
+Smokeshot Cartridge: 1 dose gunpowder and 1 smokeshot, wrapped in a paper cartridge. Cuts reload time in half, but increases minimum Misfire chance by 2. Deals half damage, but bursts into a 10' cloud of smoke on strike. <SMALL> <AMMO> <STACK: 10>
+
+Words of Power:
+Bolt (Form, 0 SP):
+Select (Form, 0 SP):
+Invisibility (Illusion Effect, 2 SP):
+Figment (Illusion, 1 SP):
+Shield (Conjuration, 2 SP):
+Light (Conjuration, 1 SP):
+Invigorate (Evocation, 1 SP):
+Lengthy (Metaword, 2 SP):
+Delayed (Metaword, 2 SP):

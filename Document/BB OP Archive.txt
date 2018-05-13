@@ -1,0 +1,235 @@
+[img]http://i.imgur.com/pUu1CkR.png[/img]
+[size=14pt][b]Chapter 1:[/b][/size]
+[img]http://i.imgur.com/yF29EABs.png[/img][img]http://i.imgur.com/xeALmoXs.png[/img][img]http://i.imgur.com/6dxPSV6s.png[/img][img]http://i.imgur.com/srsSsoTs.jpg[/img][img]http://i.imgur.com/qYFnyuXs.jpg[/img][img]http://i.imgur.com/tUAqVLbs.jpg[/img][img]http://i.imgur.com/IVur6cWs.jpg[/img]
+[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg3995166#msg3995166]01[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg3995599#msg3995599]02[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg3995867#msg3995867]03[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg3998014#msg3998014]04[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4006126#msg4006126]05[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4008413#msg4008413]06[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4008473#msg4008473]07[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4008598#msg4008598]08[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4033144#msg4033144]09[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4033337#msg4033337]10[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4035953#msg4035953]11[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4053026#msg4053026]12[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4053104#msg4053104]13[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4053174#msg4053174]14[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4053996#msg4053996]15[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4054690#msg4054690]16[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4055824#msg4055824]17[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4057042#msg4057042]18[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4059991#msg4059991]19[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4061387#msg4061387]20[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4062855#msg4062855]21[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4064643#msg4064643]22[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4072596#msg4072596]23[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4074397#msg4074397]24[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4083005#msg4083005]25[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4083216#msg4083216]26[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4147190#msg4147190]27[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4156120#msg4156120]28[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4167542#msg4167542]29[/url]
+
+[size=14pt][b]Chapter 2:[/b][/size]
+[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4167701#msg4167701]30[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4230783#msg4230783]31[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4233172#msg4233172]32[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4235466#msg4235466]33[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4256688#msg4256688]34[/url]|[Url=http://www.bay12forums.com/smf/index.php?topic=122380.msg4257101#msg4257101]35[/url]|[Url=http://www.bay12forums.com/smf/index.php?topic=122380.msg7248715#msg7248715]??[/url]|[url=http://www.bay12forums.com/smf/index.php?topic=122380.msg7262601#msg7262601]36[/url]
+
+[b][u]OVERVIEW:[/u][/b]
+Blunderbuss is a d20-style Suggestion Game set in the midst of a Fantasy Renaissance, where gunpowder, steam, and sorcery coexist. Feel free to review the adventure in the Table of Contents above, post a suggestion for the characters in the latest update, or read a bunch of the rules stuff in the spoilers below, depending on what you're into.
+
+[i]** The Darkling Forum Theme is recommended when viewing this adventure, which users can switch to [url=http://www.bay12forums.com/smf/index.php?action=profile;area=theme]here[/url].[/i]
+
+
+[b][u]DA RULES:[/u][/b]
+This suggestion game uses a homebrew d20 system. Most of the time, you can just suggest actions, and I'll pick my favorite or the most popular ones. When a character does something with a chance for failure, we make a Skill Check to see if they succeed. We roll a 20-sided die, add relevant Skill Training and Ability Score bonuses (or penalties if negative) to the result, and see if it beats a hidden Difficulty score set by me. Rolling a 20 results in a Critical Success, which results in the best possible outcome. Rolling a 1 results in a Critical Failure, where the action backfires... often spectacularly.
+
+Rules will be handled by me, and most are explained either through gameplay or in rollover Alt Text on the images. For the curious and particularly brave, I've included some more complete game rules below. I wouldn't advise reading through the whole thing, but feel free to consult it as things come up. If anything's worded strangely or doesn't make sense, let me know, and I'll try to clarify.
+
+[spoiler=Character Stats:]Ability scores measure a character's innate physical and mental abilities, and add a bonus (or penalty if negative) to all skill tests related to them. Each ability score begins at 0 [Average], and you may buy a bonus by spending Ability Points. You begin with 10 Ability Points to spend, but you may decrease an ability score below 0, gaining points to spend on other ability scores:
+
+[tt][u]Skill Rating    Point Cost[/u]
+-2 [Terrible]   Gain 3 pts.
+-1 [Poor]       Gain 1 pt.
+*0 [Average]    ------
++1 [Fair]       Costs 1 pt.
++2 [Good]       Costs 3 pts.
++3 [Great]      Costs 6 pts.
++4 [Superb]     Costs 10 pts.[/tt]
+[list][li][b]Strength (STR):[/b] Measures muscle and physical power. It factors into melee attacks, carrying capacity, and tests where brawn is key.
+[*][b]Dexterity (DEX):[/b] Measures agility, reflexes, and balance. It factors into ranged attacks, defense checks, and tests where finesse is key.
+[*][b]Constitution (CON):[/b] Measures fitness and stamina. It factors into hit points, and tests where health and endurance are key.
+[*][b]Intelligence (INT):[/b] Represents ability to learn and reason. Determines how many skills you've learned, and tests where knowledge and logic are key.
+[*][b]Wisdom (WIS):[/b] Represents willpower and awareness. Factors into perception, luck, and tests where common sense and intuition are key.
+[*][b]Charisma (CHA):[/b] Represents likability and force of character. Factors into social skills, and tests where influence and personality are key.[/li][/list]
+
+[b]Health:[/b] Start with (8 ± CON) maximum Health Points. These recover after a day's rest. At 0 your character has been Wounded, and may die. Wounds take medical treatment and time to recover.
+[b]Inventory:[/b] Start with (8 ± STR) Item Slots. Small objects take up 1 slot, and Large objects take up 2. Oversized objects may take up more. Carried containers can grant you additional inventory space.
+
+[b]Dodge:[/b] Equal to (10 ± DEX), plus certain equipment and special bonuses. Attack rolls must beat this number in order to hit you. After the first attack, every subsequent attack in a round reduces Dodge by -2.
+[b]Armor:[/b] Determined by the armor you wear. All damage is reduced by your Armor before being subtracted from HP.
+[b]Maximum Mobility:[/b] Heavier armor impedes movement, making it harder to dodge, and use certain skills. The Ability Score bonuses to these Skill Checks and to Dodge may not exceed the Max Mobility of any worn armor. This does not limit bonuses not granted by Ability Scores, such as from equipment or skill training. Affected skills include Acrobatics, Athletics, Climb, Defense, Stealth, Swim, and Arcana.
+
+[b]Major Skills:[/b] Start with (4 ± INT) Major Skills from the list below. These grant a +5 to related skill checks.
+[b]Minor Skills:[/b] Start with (4 ± INT) Minor Skills from the list below. These grant a +3 to related skill checks.
+[b]Special Abilities:[/b] Start with 1 Special Ability you qualify for, from the list below.
+[b]Wealth:[/b] Start with (20 + 10xCHA) Silver Coins.[/spoiler]
+[spoiler=Skills and Skill Checks]Skills represent your learned abilities used to perform different tasks, from climbing walls to healing wounds. Making a Skill Check is done by rolling a d20, adding the relevant Attribute and Skill Bonuses, and trying to beat a hidden difficulty score. Major Skills receive a +5, and Minor Skills receive a +3. You can attempt to use most skills if they aren't one of your Major or Minor skills, but you can't use Specialized Skills such as Lore, Pilot, Arcana, and so on if untrained in them.
+
+Difficulty Scores for tasks are as follows:
+[list][li]10 is a routine task, like shooting a game animal at close range, or recalling basic information about recent history.
+[*]15 is a challenging task, like swimming against a strong current, or jumping an alleyway between rooftops.
+[*]20 is a difficult task, like finding water in the desert, or identifying ancient ruins by their architectural style.
+[*]25 is a very difficult task, like parrying a master swordsman's attack, or performing invasive surgery.
+[*]30 is a monumental task, like climbing a 20-foot wall of sheer ice, or steering a damaged galleon out of a whirlpool.
+[*]35 is a near-impossible task, like spotting a yellow needle hidden in a haystack, or hiding yourself from a passing army in a wide-open clearing.[/li][/list]
+
+[u][b]Combat Skills:[/b][/u]
+[b]Natural Weapon (Str):[/b] Grappling, kicking, biting, etc. As a Simple Action, you can attack an enemy you're aware of. In order to succeed, your Attack roll must beat their Dodge score. Damage is reduced by the target's Armor Rating.
+[b]Blade (Str):[/b] Knives, swords, katars, etc. As a Simple Action, you can attack an enemy you're aware of. In order to succeed, your Attack roll must beat their Dodge score. Damage is reduced by the target's Armor Rating.
+[b]Blunt (Str):[/b] Hammers, clubs, axes, etc. As a Simple Action, you can attack an enemy you're aware of. In order to succeed, your Attack roll must beat their Dodge score. Damage is reduced by the target's Armor Rating.
+[b]Polearm (Str):[/b] Staves, spears, halberds, etc. As a Simple Action, you can attack an enemy you're aware of. In order to succeed, your Attack roll must beat their Dodge score. Damage is reduced by the target's Armor Rating.
+[b]Throwing (Str):[/b] Knives, darts, spears, etc. As a Simple Action, you can attack an enemy you're aware of. In order to succeed, your Attack roll must beat their Dodge score. Damage is reduced by the target's Armor Rating. Long ranges and cover will impose penalties.
+[b]Marksmanship (Dex):[/b] Bows, crossbows, muskets, etc. As a Simple Action, you can attack an enemy you're aware of. In order to succeed, your Attack roll must beat their Dodge score. Damage is reduced by the target's Armor Rating. Long ranges and cover will impose penalties. Some weapons require a Simple or Complex Action to load between attacks.
+[b]Defense (Dex):[/b] Used to actively block or parry attacks in combat. As a Simple Action, you can block all attacks from an enemy you're aware of; if an attack beats your Dodge score, it must also beat a Defense check in order to hit you. As a Complex Action, you can enter a Full Defense stance, attempting to block all incoming attacks. Max mobility from armor applies.
+
+[u][b]Physical Skills:[/b][/u]
+[b]Acrobatics (Dex):[/b] Your ability to tumble, balance, escape bonds, and slip past enemies while avoiding attacks. Max mobility from armor applies.
+[b]Athletics (Str):[/b] Your ability to sprint faster than you can normally move, carry heavy loads, jump, and if possible fly under your own power. Max mobility from armor applies.
+[b]Climb (Str):[/b] Your ability to climb ledges, walls, trees, and other vertical surfaces. Max mobility from armor applies.
+[b]Sleight (Dex):[/b] Your ability to disguise objects or people as something else, palm items, conceal objects on your person, and pick pockets.
+[b]Stealth (Dex):[/b] Your ability to avoid detection by hiding from view, moving quietly, and concealing your trail. Max mobility from armor applies.
+[b]Swim (Str):[/b] Your ability to swim, dive, and maneuver in the water, using mundane or magickal means. Max mobility from armor applies.
+
+[u][b]Mental Skills:[/b][/u]
+[b]Bluff (Cha):[/b] Your ability to tell a believable lie, convincingly act like someone or something else, and pass secret messages using implication and innuendo.
+[b]Diplomacy (Cha):[/b] Your ability to negotiate conflicts, gather information, and use proper etiquette and manners for different social situations.
+[b]Handle Animal (Cha):[/b] Your ability to train, rear, command, and influence  animals.
+[b]Intimidate (Cha):[/b] Your ability to demoralize others, threaten them into  doing what you want, or interrogate them for information.
+[b]Medicine (Wis):[/b] Your training and knowledge allows you to assess health, treat wounds and illnesses,  stabilize the dying, and perform procedures to heal or harm.
+[b]Perception (Wis):[/b] Your ability to hear or see details, follow tracks and trails left by others, etc.
+[b]Sense Motive (Wis):[/b] Your ability to detect and see through falsehoods, get an accurate hunch about a social situation, and gauge someone's intent.
+[b]Survival (Wis):[/b] Your ability to navigate, find food and water, and track creatures in the wilds.
+[b]Mechanics (Int):[/b] Your ability to disarm traps, open or jam locks, rig mechanisms, etc. You can also sabotage devices such as cannons, saddle straps, wagon wheels, and such to fail, etc.
+
+[u][b]Specialized Skills:[/b][/u]
+[i]You must choose a specialization for these skills when taking them as a Major or Minor Skill. You may take a given skill multiple times, with a different specialization each time[/i]
+
+[b]Arcana (Int/Wis/Cha):[/b] Your ability to channel and shape the energies of The Astral into useful spells. The ability score used depends on the type of Spellcasting; Ritual Arcana relies on INT, Pact Arcana on WIS, and Wild Arcana on CHA. Specialties include Conjuration, Divination, Evocation, Illusion, and Transmutation. Max mobility from armor applies. You cannot use this skill unless it is one of your Major or Minor Skills.
+[b]Craft (Int):[/b] Your knowledge of how a specific kind of items are made, and how to appraise their quality and value. Specialties include Armory, Jewelry, Alchemy, Ships, Sculpture, Textiles, Gunsmithy, Locks, Traps, etc.
+[b]Lore (Int):[/b] Your ability to recall information, and identify things within a certain area of expertise. Terrain Lore can be used to recall information about specific plants and creatures native to the area. Specialties include Engineering, History, Religion, Government, Magick, Urban, Plains, Woods, Desert, Arctic, Jungle, Ocean, Mountain, Swamp, Cavern, etc. You cannot use this skill unless it is one of your Major or Minor Skills.
+[b]Perform (Cha):[/b] Your ability to entertain and perform for others in a specific form. You can use it to earn money by busking, distract a crowd, win favor with others, insinuate yourself into high society, and more. Specialties include Acting, Comedy, Dance, Oratory, Winds, Strings, Drums, Vocal, etc.
+[b]Pilot (Wis):[/b] Your ability to control and maneuver vehicles, and ride animal mounts. Specialties include Water, Land, and Air vehicles, and Animals.
+[b]Profession (Wis):[/b] Your ability to perform a variety of lesser duties required of a skilled trade. You can earn money performing work in this profession, recognize and use related tools and principals, direct others in the work, handle common problems, and answer questions about the profession. Specialties include Architect, Brewer, Engineer, Fisher, Miner, Soldier, Trapper, Woodcutter, etc.[/spoiler]
+[spoiler=Time and Rounds in Combat]At most times, you can perform however many actions you want to. Sometimes the time an action takes to complete is important, such as in combat. In these situations, the game enters Rounds. Each character must make a DEX check each round, and actions resolve in order from highest to lowest. Characters can take 2 Simple Actions or 1 Complex Action each round, and may take as many Free Actions as is reasonable. I'll figure out action types when taking suggestions, but here's a quick reference:
+[list][li][b]Free Actions[/b] are quick and effortless, such as dropping an object, dodging an attack, moving a short distance, or saying a few words.
+[*][b]Simple Actions[/b] require only partial attention, such as equipping an object, hiding yourself from view, using a shield to block an attack, moving more than 5 feet, or attacking with a weapon.
+[*][b]Complex Actions[/b] require most of your focus for several seconds, such as sprinting, climbing a rope, taking a Full Defense stance, loading a firearm, casting a spell, or arguing a point.[/li][/list][/spoiler]
+[spoiler=Wounds and Dying:]Health can not be reduced below 0, but whenever a character is dealt damage that would reduced them to 0 HP or lower, they must roll on the Wound table, and must make a CON check to resist Dying (Difficulty 10 + 1 per HP damage dealt beyond 0). Success means they remain stable, while failure means they begin Dying, and take 1 point of CON damage.
+
+[u]Dying:[/u]
+A Dying creature may take only Free Actions and a single Simple Action each round. Any time they perform a strenuous activity, they must succeed at another CON check as above, or take 1 point of CON damage. Taking damage that would reduce them to 0 HP or lower provokes the CON check as well, and they may take Wounds as normal. If a creature takes enough CON damage to reduce them to -5, they are dead. CON damage is also dealt by suffocation, blood loss, starvation, sickness, poison, dehydration, and mortal wounds.
+
+[u]Stabilization:[/u]
+Once per minute, a Dying creature must attempt a CON check to end the Dying condition. Failure deals 1 point of CON damage, but success means they have stabilized and stopped Dying, though any Wounds, HP, and CON damage remains. Temporary hit points do not end the Dying condition, though a successful Difficulty 15 Medicine check, or supernatural HP restoration, will stabilize the creature and end the Dying condition.
+
+[u]Non-Lethal Damage:[/u]
+If reduced to 0 HP or lower by a source of Non-Lethal damage, a creature that fails their CON check falls Unconscious instead of Dying. Once per minute, you must attempt a CON check, to see if you are able to regain consciousness. While Unconscious, further Non-Lethal damage is treated as Lethal damage.
+
+[u]Massive Damage:[/u]
+Receiving massive damage from a single source (even Non-Lethal) can inflict a Wound, and deal CON damage. Taking 2x your Max HP in damage from one source causes you to take 1 CON damage and begin Dying. 3x your Max HP deals 2 CON damage, 4x deals 3 CON damage, and so on.
+
+[u]Wounds:[/u]
+Wounds are long-term debilitating effects, such as broken limbs or concussions, which take time and medical care to recover from. Serious wounds, or improper medical care may result in permanent injuries, such as blinded eyes or ruined limbs, which may never fully heal. A successful Medicine skill check, and a period of recovery time, is required to recover from a Wound, with Medicine check difficulty and recovery time depending on the severity of the Wound.
+
+When wounded, roll 2d6, and consult the following table:
+[list][li]12-10: No Wound
+[*]9-5: Normal Wound - Medicine DC 15+. Takes days to recover.
+[*]4-3: Severe Wound - Medicine DC 20+. Takes weeks to recover.
+[*]2: Mortal Wound - Medicine DC 25+. Takes months to recover.[/li][/list][/spoiler]
+
+[spoiler=Spellcasting Overview:]
+Casting spells requires 3 things: Knowledge of the necessary Power Words, a Racial Ability or Special Ability that allows you access to Astral Energy, and training in the Arcana skill tied to those Power Words. The nature of spell creation and preparation, the effect of casting failure, and the Ability Score Bonus you add to your Arcana Checks depends on the Special Ability that grants you access to Astral Energy. In general, the act of casting a spell requires a Complex Action and a successful Arcana Skill Check; your Arcana Check result must be higher than (the Total Spellpower of the spell + 5 per Power Word involved) to succeed.
+
+[u]Power Words:[/u]
+Power Words are single syllables from the language of Magick. These are combined into spells, which allow creatures to alter reality or perceptions in different ways. Each spell must contain at least 1 Effect Word. Spells without a Spellform Word target the caster, and create a 5' area of effect around them if appropriate. Power Words are grouped into several categories:
+  * [b]Spellform Words:[/b] Define how the spell behaves, who or what it can affect, etc.
+  * [b]Effect Words:[/b] Define what the spell does to its targets.
+  * [b]Metawords:[/b] Amplify or alter how the other Power Words in a spell behave.
+
+[u]Accessing Astral Energy:[/u]
+Just speaking a Power Word can't alter reality on its own; it also requires access to energies from the currents of The Astral. Though creatures such as Elves and Daemons have an innate connection to The Astral, there are several established methods by which other creatures can still gain access to these energies, and use them to weave Spells:
+  * [b]Ritual Arcana:[/b] Intelligence-based, formulaic spellcasting, which relies on magickally-attuned implements or animals to channel Astral Energy. Cast spells without cost or limits, but only from spells prepared and bound to a talisman or familiar ahead of time.
+  * [b]Pact Arcana:[/b] Wisdom-based spellcasting, which draws Astral Energy from a powerful supernatural ally, such as a Daemon. Cast spells flexibly, with no cost for failure, but only from a limited power pool granted through continued allegiance to your chosen patron.
+  * [b]Wild Arcana:[/b] Charisma-based innate spellcasting, which requires an Astral Spirit to be bound to your body, and allows you to weave spells as magickal creatures do. Cast freely and instantly, but spells you fail to control can cause you physical harm.
+
+[u]Spellpower (SP):[/u]
+Spellpower is the measure of how much Astral Energy is required to fuel a spell. Each Power Word that makes up a spell has a Spellpower associated with it, which increases the total SP of the spell, and makes it more difficult to cast. Most Power Words have optional effects, which can change or enhance that Power Word, but further increase the Spellpower of the spell.
+
+[u]Spheres of Magick, and the Arcana Skill:[/u]
+Arcana is a specialized skill, and is taken multiple times for each Sphere of Magick. In order to cast a spell using an Effect Word, you must be trained in the Arcana Skill Specialization related to the Sphere that Effect Word belongs to. The Spheres of Magick, as presently known, include:
+  * Conjuration: The manifestation of elemental and physical matter. Effects include creating invisible barriers, summoning Astral Spirits into physical forms, and temporary creation of elemental air, water, fire, or earth.
+  * Evocation: The manipulation of energy and vital forces. Effects include creating electrical or caustic energy, resisting extreme heat or cold, and manipulating life energy.
+  * Illusion: Manipulation of perceptions and the mind. Effects include making objects invisible, creating false images, sharing or manipulating the senses, and altering memories.
+  * Transmutation: The manipulation of physical bodies and matter. Effects include granting inanimate objects false life, manipulation of gravity, and changing the form of an object or creature.
+
+When making an Arcana Check to cast a spell, you must use the Arcana Skill related to the Sphere of the Effect Words in the spell. If the spell contains Effect Words from multiple Spheres (such 1 Illusion Effect and 1 Transmutation Effect), you must be trained in Arcana Skill Specializations for each of those Spheres, and you use the lowest related Arcana Skill in your attempt to cast the spell.
+
+[u]Dodging and Resisting Spells:[/u]
+When casting a spell with a Spellform that requires an Attack check (such as with a melee, marksmanship, or throwing attack), the spell must only make contact with the target in order to affect them. As long as the Spell Attack beats their Dodge Score, these spells will take effect.
+
+Some Spell Effects can be resisted by their target, if they succeed at a Saving Throw. A Saving Throw is made with a d20 roll + one of your ability scores; the ability score that resists an effect is listed in each Effect Word. Some effects can't be resisted, while others can only be partially resisted for a reduced effect, listed in each Effect Word. The DC your Saving Throw must beat to resist a spell is equal to (10 + the caster's Casting Ability Score Bonus + 1 per Power Word the spell contains).
+
+[u]Spellcasting Definitions:[/u]
+[b]Casting Ability Bonus:[/b] The Ability Score bonus you add to your Arcana Checks.
+
+[b]Short Range:[/b] 10' x Casting Ability Bonus (CHA/INT/WIS)
+[b]Medium Range:[/b] 25' x Casting Ability Bonus (CHA/INT/WIS)
+[b]Long Range:[/b] 100' x Casting Ability Bonus (CHA/INT/WIS)
+
+[b]Caster:[/b] The creature that casts the spell from Power Words they know.
+[b]Source:[/b] The creature, object, or location from which the spell effect originates.
+[b]Target:[/b] The creature or object that the spell's Words of Effect are attempting to affect.
+
+[/spoiler]
+[spoiler=Known Spellform Words]
+[u]Bolt (Target, 0 Spellpower):[/u]
+Make a Marksmanship Attack against one target within Medium Range. If you succeed, the spell affects the target, and creates a 5' area of effect centered on target if appropriate. Defense checks do not apply.
++1 SP: Far - Range increases to Long Range.
++2 SP: Mass - You may cast the spell multiple times, making an additional Ranged Attack for every +2 of your Casting Attribute bonus. You may aim multiple attacks against any target in range, and their effects are cumulative.
+
+[u]Select (Target, 1 Spellpower):[/u]
+Spell affects one target within Close Range, and creates a 5' area of effect centered on target if appropriate.
++1 SP: Far - Range increases to Medium Range.
++2 SP: Mass - Spell affects one target per Casting Attribute bonus, all of which must be within Close Range of each other.
+
+[/spoiler]
+[spoiler=Known Conjuration Effect Words:]
+[u]Aegis (Conjuration, 2 Spellpower):[/u]
+Creates a shell of force around the target which protects against incoming attacks, granting a +2 bonus to Dodge and Defense. This effect lasts for 1d4 rounds.
++1 SP: Extended - This effect lasts for 1 minute per Casting Ability bonus.
++2 SP: Hardened - This effect also grants +2 to the target's Armor Rating, reducing physical damage taken by 2.
+
+[u]Light (Conjuration, 1 Spellpower):[/u]
+Increases the light level within the area of effect to Well-Lit. The light level for 2x the area of effect is increased by 1 step (Darkness => Dim Light => Well-Lit). Lasts for 1d4 rounds.
++1 SP: Extended - Lasts for 1 minute per Casting Ability bonus.
++2 SP: Brilliant - When cast, creates a burst of intense light that Blinds creatures in the area of effect for 1 round, and Dazzles them for the duration of the Light effect. CON Resists - Targets are instead Dazzled for 1 round.
+
+[/spoiler]
+[Spoiler=Known Evocation Effect Words]
+[u]Invigorate (Evocation, 1 Spellpower):[/u]
+Infuses the target with Positive Energy, granting them 1d4 Temporary HP. These Temporary HP last for 1 minute per Casting Ability bonus, and may not exceed half the target's Maximum HP. WIS Negates - Harmless.
++1 SP: Greater - Grants 1d4 Temporary HP per +2 of your Casting Ability bonus.
++2 SP: Virtuous - This effect instead restores lost Hit Points as though through natural healing. An equal amount of damage is dealt to the caster.
+
+[u]Shock (Evocation, 1 Spellpower):[/u]
+Jolts the target with electrical energy, dealing 1d4 Electricity Damage.
++1 SP: Greater - Deals an additional 1d4 Electricity Damage for every +2 of your Ability Score Bonus.
++2 SP: Stunning - Targets damaged by this effect are Staggered for 1 round. CON Negates.
+
+[/spoiler]
+[spoiler=Known Illusion Effect Words]
+[u]Invisibility (Illusion, 2 Spellpower):[/u]
+The target becomes invisible for 1d4 rounds, or until they take an offensive action. WIS Negates - Harmless.
++1 SP: Extended - The target remains invisible for 1 minute per Casting Ability Bonus.
++2 SP: Greater - The target remains invisible even if they take an offensive action.
+
+[u]Figment (Illusion, 1 Spellpower):[/u]
+Creates soundless, insubstantial illusions in the area of effect. The caster determines the nature of the illusions when the spell first takes effect. These illusions are static, and unable to move or react to their environment. Lasts 1d4 rounds. WIS Disbelieves. If an illusion behaves in a way that isn't consistent with reality, it allows targets to make a new WIS check to Disbelieve.
++1 SP: Extended - Effect lasts for 1 minute per Casting Ability Bonus.
++2 SP: Programmed - The illusion is capable of movement, and can change with its environment. When cast, the caster may give the illusion a simple command to move or act in a certain way, such as to react to physical surroundings. The illusion must remain in the area of effect.
+
+[/spoiler]
+[spoiler=Known Transmutation Effect Words]
+
+[/spoiler]
+[hr]
+
+
+[img]http://i.imgur.com/IqUycSL.png[/img]
+
+You are [b]Maja Honn[/b]. You find yourself in a charmingly rustic but unfamiliar house. Your keen nose detects the smell of roasted fish and bread in the air, not quite masking the smell of wood smoke, the sea, and humans.
+
+What do you do?
+>
+
+[spoiler=Party Roster:](Scroll over icons for more information)
+
+[img]http://i.imgur.com/axiosQv.png[/img]
+[ABBR=Health Points. When these hit 0, you are wounded, and may die.][img]http://i.imgur.com/cTHsQz2.png[/img][/abbr][ABBR=Attack rolls must beat your Dodge rating in order to hit. Each round, every attack beyond the first reduces your Dodge by -2. When actively Defending, attacks that beat your Dodge must also beat a separate Defense check to hit you. Armor Rating is based on your equipped armor. Damage is reduced by this amount before being dealt to your HP. Heavier armor may limit your ability to dodge, and perform some physical tasks][img]http://i.imgur.com/EJpiW8Z.png[/img][/abbr][abbr=Hungry: -1 to all Skill Checks. Leads to Starving.][img]http://i.imgur.com/f08UqrM.png[/img][/abbr][img]http://i.imgur.com/K2sMv55.png[/img][img]http://i.imgur.com/K2sMv55.png[/img][img]http://i.imgur.com/K2sMv55.png[/img]
+[img]http://i.imgur.com/TV5RTzi.png[/img]
+[abbr=Flind racial ability. You can use smell to locate nearby people or objects, using Perception to identify and track smells. You can also identify familiar scents the same way you identify familiar faces or voices. Other strong odors can muddle this ability.][img]http://i.imgur.com/puJAimt.png[/img][/abbr][abbr=Flind racial ability. You have a powerful bite, which you can use as a Natural Weapon: 1-4+STR Piercing/Bludgeoning Damage.][img]http://i.imgur.com/G2ekes6.png[/img][/abbr]
+[abbr=If you aren't wearing Heavy Armor, you may add your WIS bonus to your Defense rolls and Dodge rating. You also retain your WIS and DEX bonus to Dodge, even when you aren't aware you're being attacked.][img]http://i.imgur.com/zmQGit3.png[/img][/abbr]
+[abbr=Warm-Weather Robe: <SMALL> <LIGHT ARMOR>][img]http://i.imgur.com/5nEhRgt.png[/img][/abbr][abbr=Padded Armor: +1 Armor, Max Mobility +8. <SMALL> <LIGHT ARMOR>][img]http://i.imgur.com/xPiBekl.png[/img][/abbr][abbr=Quarterstaff: 1-4+STR Bludgeoning Damage. <LARGE> <LIGHT POLEARM> <DOUBLE> <TWO-HANDED> <NON-LETHAL>][img]http://i.imgur.com/lf0zdCX.png[/img][/abbr][abbr=Silver Coins. <SMALL> <STACK: 50>][img]http://i.imgur.com/S0bOn7K.png[/img][/abbr][img]http://i.imgur.com/yRFxd54.png[/img][img]http://i.imgur.com/yRFxd54.png[/img][img]http://i.imgur.com/yRFxd54.png[/img]
+[img]http://i.imgur.com/yRFxd54.png[/img][img]http://i.imgur.com/yRFxd54.png[/img][/spoiler]
